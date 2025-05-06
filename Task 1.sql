@@ -30,6 +30,8 @@ modify column name varchar(30),
 modify column contact_no bigint,
 modify column gender varchar(10);
 
+select * from trainee_info;
+
 
 /*Orders*/
 create database orders;
@@ -161,8 +163,7 @@ modify column drinks varchar(30),
 modify column contact_number int;
 
 
-
-
+select * from movie_info;
   
 
 
